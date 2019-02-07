@@ -1,7 +1,7 @@
 # Analyze-AB-test-Results
 
-## Blog Version
-https://wordpress.com/post/prvnirupama.wordpress.com/768
+## Administrative stuff
+Please download/save and view the [Analyze_ab_test_results_notebook.html](https://github.com/vikramriyer/Analyze-AB-test-Results/blob/master/Analyze_ab_test_results_notebook.html) file to see the entire report written using Jupyter Notebook which has all the code as well.
 
 ## Summary
 This is an A/B testing assignment completed for Udacity's Data Analyst Nano Degree Program. The project consisted of understanding the results of an A/B test run by an e-commerce website and helping the company understand through statistical conclusions, if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
